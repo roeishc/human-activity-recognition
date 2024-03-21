@@ -9,7 +9,6 @@ The project's goals were:
 - deepen my knowledge and understanding of Machine Learning as a whole, and deep dive into Neural Networks and Deep Learning.
 - learn and experiment with Convolutional Neural Networks and with Long Short-Term Memory networks.
 <br>
-<br>
 This is a supervised multivariate time-series classification problem implemented with Google Colaboratory.
 <br>
 <br>
