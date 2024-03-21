@@ -10,7 +10,7 @@ The project's goals were:
 <br>
 This is a supervised multivariate time-series classification problem implemented with Google Colaboratory.
 <br>
-A big thank-you to [Jason Brownlee](https://machinelearningmastery.com/), whose books and blogs provided great resources and guidance for me during this project.
+A big thank-you to [Jason Brownlee](https://machinelearningmastery.com), whose books and blogs provided great resources and guidance for me during this project.
 <br>
 I recommend checking the project's book (in the repo's root, as a PDF) - I tried explaining and understanding the behavior exhibited by the different models and architectures, and had a lot of fun on the way!
 
